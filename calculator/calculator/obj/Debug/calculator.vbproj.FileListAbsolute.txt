@@ -1,0 +1,12 @@
+C:\Users\sarav\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\sarav\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\sarav\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\sarav\source\repos\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.Resources.resources
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.cache
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.xml
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.vbprojAssemblyReference.cache
+C:\Users\sarav\source\repos\calculator\calculator\obj\Debug\calculator.frmMain.resources
